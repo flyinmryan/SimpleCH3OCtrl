@@ -1,0 +1,16 @@
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.csprojResolveAssemblyReference.cache
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.frmMain.resources
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.Properties.Resources.resources
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.ucAlicat.resources
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\SIGIntranetShell.ucDataLView.resources
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.csproj.GenerateResource.Cache
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.csproj.CoreCompileInputs.cache
+C:\!Dev\svn\BurnerControl\trunk\bin\BurnerControl.exe.config
+C:\!Dev\svn\BurnerControl\trunk\bin\BurnerControl.exe
+C:\!Dev\svn\BurnerControl\trunk\bin\BurnerControl.pdb
+C:\!Dev\svn\BurnerControl\trunk\bin\Dry.Framework.dll
+C:\!Dev\svn\BurnerControl\trunk\bin\Dry.Framework.pdb
+C:\!Dev\svn\BurnerControl\trunk\bin\Dry.Framework.xml
+C:\!Dev\svn\BurnerControl\trunk\bin\Dry.Framework.dll.config
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.exe
+C:\!Dev\svn\BurnerControl\trunk\obj\Debug\BurnerControl.pdb
